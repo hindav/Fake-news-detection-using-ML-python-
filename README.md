@@ -4,3 +4,7 @@ Developed a machine learning model to detect fake news using Python. Utilized TF
 to use this project 
   use google colab &&
   store the files in drive
+
+
+
+And for dataset use "https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset" this link
